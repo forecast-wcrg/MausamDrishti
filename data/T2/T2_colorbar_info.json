@@ -1,0 +1,36 @@
+{
+  "variable": "T2",
+  "colorbar_min": -6.0,
+  "colorbar_max": 41.0,
+  "unit": "\u00b0C",
+  "percentiles_used": "2-98%",
+  "actual_data_min": -19.510971069335938,
+  "actual_data_max": 45.2379150390625,
+  "ticks": [
+    -6,
+    -1,
+    4,
+    9,
+    14,
+    19,
+    24,
+    29,
+    34,
+    39
+  ],
+  "use_log_scale": false,
+  "log_linear_threshold": null,
+  "tick_labels": [
+    "-6\u00b0C",
+    "-1\u00b0C",
+    "4\u00b0C",
+    "9\u00b0C",
+    "14\u00b0C",
+    "19\u00b0C",
+    "24\u00b0C",
+    "29\u00b0C",
+    "34\u00b0C",
+    "39\u00b0C"
+  ],
+  "resolution_m": 1500
+}
